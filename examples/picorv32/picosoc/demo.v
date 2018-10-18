@@ -17,7 +17,7 @@
  *
  */
 
-module alhambraII_demo (
+module demo (
 	input clk,
 
 	output ser_tx,
@@ -28,7 +28,7 @@ module alhambraII_demo (
 	output flash_csb,
 	output flash_clk,
 	inout  flash_io0,
-	inout  flash_io1,
+	inout  flash_io1
 
 );
 	reg [5:0] reset_cnt = 0;
