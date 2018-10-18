@@ -197,9 +197,7 @@ module spimemio (
 		//.flash_io2_do (xfer_io2_do ),
 		//.flash_io3_do (xfer_io3_do ),
 		.flash_io0_di (flash_io0_di),
-		.flash_io1_di (flash_io1_di),
-		//.flash_io2_di (flash_io2_di),
-		//.flash_io3_di (flash_io3_di)
+		.flash_io1_di (flash_io1_di)
 	);
 
 	reg [3:0] state;
@@ -406,9 +404,7 @@ module spimemio_xfer (
 	//output reg flash_io3_do,
 
 	input      flash_io0_di,
-	input      flash_io1_di,
-	//input      flash_io2_di,
-	//input      flash_io3_di
+	input      flash_io1_di
 );
 	reg [7:0] obuffer;
 	reg [7:0] ibuffer;

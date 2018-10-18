@@ -19,7 +19,7 @@
 
 `ifndef PICORV32_REGS
 `ifdef PICORV32_V
-`error "picosoc.v must be read before picorv32.v!"
+//`error "picosoc.v must be read before picorv32.v!"
 `endif
 
 `define PICORV32_REGS picosoc_regs
@@ -48,18 +48,12 @@ module picosoc (
 
 	output flash_io0_oe,
 	output flash_io1_oe,
-	//output flash_io2_oe,
-	//output flash_io3_oe,
 
 	output flash_io0_do,
 	output flash_io1_do,
-	//output flash_io2_do,
-	//output flash_io3_do,
 
 	input  flash_io0_di,
-	input  flash_io1_di,
-	//input  flash_io2_di,
-	//input  flash_io3_di
+	input  flash_io1_di
 );
 	parameter [0:0] BARREL_SHIFTER = 1;
 	parameter [0:0] ENABLE_MULDIV = 1;
