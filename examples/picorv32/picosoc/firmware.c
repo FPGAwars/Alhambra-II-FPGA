@@ -570,6 +570,7 @@ void main()
 	print(" | |_) | |/ __/ _ \\___ \\ / _ \\| |\n");
 	print(" |  __/| | (_| (_) |__) | (_) | |___\n");
 	print(" |_|   |_|\\___\\___/____/ \\___/ \\____|\n");
+	print("\nRunning on the Alhambra II board :-)\n");
 
 	while (1)
 	{

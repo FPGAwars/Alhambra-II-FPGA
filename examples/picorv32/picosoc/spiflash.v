@@ -46,7 +46,7 @@ module spiflash (
 );
 	localparam verbose = 0;
 	localparam integer latency = 8;
-	
+
 	reg [7:0] buffer;
 	integer bitcount = 0;
 	integer bytecount = 0;
@@ -103,9 +103,6 @@ module spiflash (
 
 	reg [1023:0] firmware_file;
 	initial begin
-		if (!$value$plusargs("firmware=%s", firmware_file))
-			firmware_file = "firmware.hex";
-		$readmemh(firmware_file, memory);
 	end
 
 	task spi_action;

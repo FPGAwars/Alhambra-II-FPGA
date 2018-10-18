@@ -1,0 +1,31 @@
+# -----------------------------------------------------------------------------
+#- Alhambra II constraint file (.pcf)
+#- By Juan Gonzalez (Obijuan) and Jesus Arroyo Torrens
+#- May - 2018
+#- GPL license
+#- Repo: https://github.com/FPGAwars/Alhambra-II-FPGA
+# -----------------------------------------------------------------------------
+
+
+# ------------ User Leds ------------------------------------------------------
+set_io --warn-no-port leds[0] 45  # output
+set_io --warn-no-port leds[1] 44 # output
+set_io --warn-no-port leds[2] 43 # output
+set_io --warn-no-port leds[3] 42 # output
+set_io --warn-no-port leds[4] 41 # output
+set_io --warn-no-port leds[5] 39 # output
+set_io --warn-no-port leds[6] 38 # output
+set_io --warn-no-port leds[7] 37 # output
+
+# -------------------------- SYSTEM CLOCK -------------------------------------
+set_io --warn-no-port clk 49  # input
+
+# --- Flash memory (SPI)
+set_io --warn-no-port flash_csb   71  # output (SS)
+set_io --warn-no-port flash_io1   68  # input (MISO)
+set_io --warn-no-port flash_io0   67  # output (MOSI)
+set_io --warn-no-port flash_clk   70  # output (SCK)
+#
+# --- FTDI 1: (Serial port)
+set_io --warn-no-port ser_tx  61  # output (ser-tx)
+set_io --warn-no-port ser_rx  62  # input (ser-rx)
