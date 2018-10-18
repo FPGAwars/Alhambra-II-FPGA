@@ -8,7 +8,7 @@
 
 
 # ------------ User Leds ------------------------------------------------------
-set_io --warn-no-port leds[0] 45  # output
+set_io --warn-no-port leds[0] 45  # output()
 set_io --warn-no-port leds[1] 44 # output
 set_io --warn-no-port leds[2] 43 # output
 set_io --warn-no-port leds[3] 42 # output

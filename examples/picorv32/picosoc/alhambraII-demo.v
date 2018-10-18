@@ -17,7 +17,7 @@
  *
  */
 
-module hx8kdemo (
+module alhambraII_demo (
 	input clk,
 
 	output ser_tx,
@@ -29,8 +29,6 @@ module hx8kdemo (
 	output flash_clk,
 	inout  flash_io0,
 	inout  flash_io1,
-	//inout  flash_io2,
-	//inout  flash_io3,
 
 );
 	reg [5:0] reset_cnt = 0;
@@ -42,8 +40,6 @@ module hx8kdemo (
 
 	wire flash_io0_oe, flash_io0_do, flash_io0_di;
 	wire flash_io1_oe, flash_io1_do, flash_io1_di;
-	//wire flash_io2_oe, flash_io2_do, flash_io2_di;
-	//wire flash_io3_oe, flash_io3_do, flash_io3_di;
 
 	SB_IO #(
 		.PIN_TYPE(6'b 1010_01),
@@ -93,18 +89,12 @@ module hx8kdemo (
 
 		.flash_io0_oe (flash_io0_oe),
 		.flash_io1_oe (flash_io1_oe),
-		//.flash_io2_oe (flash_io2_oe),
-		//.flash_io3_oe (flash_io3_oe),
 
 		.flash_io0_do (flash_io0_do),
 		.flash_io1_do (flash_io1_do),
-		//.flash_io2_do (flash_io2_do),
-		//.flash_io3_do (flash_io3_do),
 
 		.flash_io0_di (flash_io0_di),
 		.flash_io1_di (flash_io1_di),
-		//.flash_io2_di (flash_io2_di),
-		//.flash_io3_di (flash_io3_di),
 
 		.irq_5        (1'b0        ),
 		.irq_6        (1'b0        ),
