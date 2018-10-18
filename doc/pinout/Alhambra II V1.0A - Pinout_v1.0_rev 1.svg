@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="Alhambra II V1.0A - Pinout_v1.0_rev 0.svg"
+   sodipodi:docname="Alhambra II V1.0A - Pinout_v1.0_rev 1_.svg"
    inkscape:export-filename="T:\_WK\Proyectos\2016-11-27 Alhambra II\HW\Alhambra II - V1.0A\Pinout\Alhambra II V1.0A - Pinout_v1.0_rev 0.png"
    inkscape:export-xdpi="300.01077"
    inkscape:export-ydpi="300.01077">
@@ -3309,9 +3309,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="323.71433"
-     inkscape:cy="178.61373"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="116.14182"
+     inkscape:cy="367.77221"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -3331,7 +3331,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -26326,7 +26326,7 @@
          id="tspan9422-7-5-2"
          x="467.79706"
          y="1060.1893"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41822147px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.94182211px">15  AUG  2018</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41822147px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.94182211px">16  OCT  2018</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96175957px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7c7d81;fill-opacity:1;stroke:none;stroke-width:0.99617589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -26341,7 +26341,7 @@
          id="tspan9422-7-5-2-6"
          x="423.0697"
          y="1186.1342"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96175957px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99617589px">ver 1.0 rev 0</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96175957px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99617589px">ver 1.0 rev 1</tspan></text>
     <g
        transform="translate(201.86091,189.44943)"
        style="display:inline"
@@ -31451,7 +31451,7 @@
          y="183.56346"
          x="74.257423"
          id="tspan14318"
-         sodipodi:role="line">Maximun Supply Voltage: 5.5V</tspan></text>
+         sodipodi:role="line">Maximum Supply Voltage: 5.5V</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -31821,15 +31821,6 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
-    <path
-       inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path5722"
-       d="m 542.19389,1030.7407 4.00758,-2.3867"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#7c7d81;stroke-width:0.7003125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <style
      id="style26"
