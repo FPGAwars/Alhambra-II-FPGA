@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Alhambra_II.PcbDoc   15/11/2018  9:33:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Alhambra_II-RoundHoles.TXT
+ASCII SlotHoles File : Alhambra_II-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             235       PTH        0.00mm (0.00inch)
+T2      0.55mm (22mil)                                            Slot              2         PTH        0.00mm (0.00inch)
+T3      0.85mm (33mil)                                            Slot              2         PTH        0.00mm (0.00inch)
+T4      0.9mm (35mil)                                             Round             88        PTH        0.00mm (0.00inch)
+T5      0.7mm (28mil)                                             Round             8         NPTH       0.00mm (0.00inch)
+T6      0.8mm (31mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T7      0.9mm (35mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T8      3.2mm (126mil)                                            Round             4         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              343
+
+Total Processing Time (hh:mm:ss) : 00:00:00
