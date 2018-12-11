@@ -17,7 +17,7 @@ Open FPGA for makers
 * USB power supply. Two connectors. Up to 4.8A
 * Cold boot pins accesible from GPIO
 * Analog pins (though the i2c embeded A/D converter)
-* 20 Input/output 5v pins
+* 20 Input/output 3.3v (5v tolerant) pins
 * FTDI 2232H USB device allows FPGA programming and UART interface to a PC
 * Reset pushbutton
 * 8 general purpose leds (user leds)
