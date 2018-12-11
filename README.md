@@ -22,6 +22,7 @@ Open FPGA for makers
 * Reset pushbutton
 * 8 general purpose leds (user leds)
 * 2 general purpose pushbuttons
+* 4MB flash memory
 
 ## Documentation
 
