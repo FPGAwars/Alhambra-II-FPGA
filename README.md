@@ -1,2 +1,2 @@
-# Alhambra-II-FPGA
-Alhambra II FPGA board
+# Alhambra II FPGA board
+Open FPGA for makers
