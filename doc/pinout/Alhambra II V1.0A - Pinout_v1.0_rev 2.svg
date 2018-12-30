@@ -16,10 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="Alhambra II V1.0A - Pinout_v1.0_rev 1_.svg"
-   inkscape:export-filename="T:\_WK\Proyectos\2016-11-27 Alhambra II\HW\Alhambra II - V1.0A\Pinout\Alhambra II V1.0A - Pinout_v1.0_rev 0.png"
-   inkscape:export-xdpi="300.01077"
-   inkscape:export-ydpi="300.01077">
+   sodipodi:docname="Alhambra II V1.0A - Pinout_v1.0_rev 2.svg"
+   inkscape:export-filename="T:\_WK\Proyectos\2016-11-27 Alhambra II\HW\Alhambra II - V1.0A\Pinout\Alhambra II V1.0A - Pinout_v1.0_rev 2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <linearGradient
@@ -3309,9 +3309,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="116.14182"
-     inkscape:cy="367.77221"
+     inkscape:zoom="1"
+     inkscape:cx="137.0877"
+     inkscape:cy="359.43113"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -3331,7 +3331,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3339,7 +3339,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="background"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -21769,13 +21769,13 @@
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
     <rect
-       style="display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.23002869;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.2389631;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8020-2"
        width="142.07367"
-       height="142.31099"
+       height="153.58051"
        x="24.079588"
        y="310.86734"
-       ry="8.5233374"
+       ry="9.1982946"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
@@ -22286,7 +22286,7 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="71.636726"
+       x="70.537994"
        y="315.03238"
        id="text6640-7"
        transform="scale(0.95446705,1.0477051)"
@@ -22295,7 +22295,7 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
          sodipodi:role="line"
          id="tspan6642-89"
-         x="71.636726"
+         x="70.537994"
          y="315.03238"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Power</tspan></text>
     <path
@@ -22309,7 +22309,7 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
     <path
        style="display:inline;fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 38.595634,346.91052 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,1e-5 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
+       d="m 38.595634,346.9825 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,1e-5 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
        id="path8073-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -22318,7 +22318,7 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
     <path
        style="display:inline;fill:#c8e8f3;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 38.595634,362.64365 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
+       d="m 38.595634,362.78773 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,1e-5 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
        id="path8073-6-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -22328,8 +22328,8 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="65.381927"
-       y="377.3739"
+       x="64.954239"
+       y="377.79224"
        id="text6640-7-5"
        transform="scale(1.0448543,0.95707123)"
        inkscape:export-xdpi="90"
@@ -22337,12 +22337,12 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
          sodipodi:role="line"
          id="tspan6642-89-5"
-         x="65.381927"
-         y="377.3739"
+         x="64.954239"
+         y="377.79224"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Serial Pin</tspan></text>
     <path
        style="display:inline;fill:#92bb51;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 38.595634,378.37678 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
+       d="m 38.595634,378.5929 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
        id="path8073-6-1-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -22353,7 +22353,7 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="64.688148"
-       y="398.43787"
+       y="397.58597"
        id="text6640-7-5-3"
        transform="scale(1.0560276,0.94694494)"
        inkscape:export-xdpi="90"
@@ -22362,11 +22362,11 @@
          sodipodi:role="line"
          id="tspan6642-89-5-5"
          x="64.688148"
-         y="398.43787"
+         y="397.58597"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Analog Pin</tspan></text>
     <path
        style="display:inline;fill:#ffe22c;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 38.595634,394.12678 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
+       d="m 38.595634,394.39806 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
        id="path8073-6-1-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -22376,8 +22376,8 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="64.688148"
-       y="414.80627"
+       x="63.771275"
+       y="415.34103"
        id="text6640-7-5-3-0"
        transform="scale(1.0560276,0.94694494)"
        inkscape:export-xdpi="90"
@@ -22385,12 +22385,12 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
          sodipodi:role="line"
          id="tspan6642-89-5-5-3"
-         x="64.688148"
-         y="414.80627"
+         x="63.771275"
+         y="415.34103"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Control</tspan></text>
     <path
        style="display:inline;fill:#6d6e70;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 38.595634,409.87678 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
+       d="m 38.595634,426.00831 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
        id="path8073-6-1-2-6-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -22400,8 +22400,8 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="61.796463"
-       y="451.00821"
+       x="60.885201"
+       y="468.26904"
        id="text6640-7-5-3-0-4"
        transform="scale(1.1042119,0.90562327)"
        inkscape:export-xdpi="90"
@@ -22409,8 +22409,8 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
          sodipodi:role="line"
          id="tspan6642-89-5-5-3-6"
-         x="61.796463"
-         y="451.00821"
+         x="60.885201"
+         y="468.26904"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Physical Pin</tspan></text>
     <g
        id="g7631"
@@ -26326,7 +26326,7 @@
          id="tspan9422-7-5-2"
          x="467.79706"
          y="1060.1893"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41822147px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.94182211px">16  OCT  2018</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41822147px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.94182211px">30  DEC  2018</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96175957px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7c7d81;fill-opacity:1;stroke:none;stroke-width:0.99617589px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -26341,7 +26341,7 @@
          id="tspan9422-7-5-2-6"
          x="423.0697"
          y="1186.1342"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96175957px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99617589px">ver 1.0 rev 1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96175957px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.99617589px">ver 1.0 rev 2</tspan></text>
     <g
        transform="translate(201.86091,189.44943)"
        style="display:inline"
@@ -27195,7 +27195,7 @@
     </g>
     <path
        style="display:inline;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 38.595634,425.62678 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,10e-6 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
+       d="m 38.595634,441.81353 c -0.48506,0.0312 -0.77229,-0.49862 -0.63167,-0.93612 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.58187,1e-5 c 0.48614,0 0.74372,0.62407 0.65533,0.88924 l -2.11217,7.61814 c -0.12109,0.29688 -0.46055,0.7773 -0.97227,0.77339 z"
        id="path8073-6-1-2-6-1-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -27205,8 +27205,8 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="61.796463"
-       y="468.39951"
+       x="60.800827"
+       y="486.73056"
        id="text6640-7-5-3-0-4-6"
        transform="scale(1.1042119,0.90562327)"
        inkscape:export-xdpi="90"
@@ -27214,8 +27214,8 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
          sodipodi:role="line"
          id="tspan6642-89-5-5-3-6-7"
-         x="61.796463"
-         y="468.39951"
+         x="60.800827"
+         y="486.73056"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Icestudio name</tspan></text>
     <path
        style="display:inline;opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.21589077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -27748,7 +27748,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">D1</tspan></text>
     <path
        style="display:inline;opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 624.6813,771.14541 c -0.4256,5.3e-4 -0.5361,-0.65977 -0.44955,-1.20957 l 2.58912,-9.45111 c 0.18869,-0.71037 0.8355,-1.05114 1.10409,-1.0442 l 18.30199,-0.0579 c 0.33591,-0.0183 1.07581,0.47913 0.90335,1.16438 l -2.62584,9.5737 c -0.16044,0.43558 -0.48268,1.07839 -1.03201,1.093 z"
+       d="m 624.51557,771.80832 c -0.4256,5.3e-4 -0.5361,-0.65977 -0.44955,-1.20957 l 2.58912,-9.45111 c 0.18869,-0.71037 0.8355,-1.05114 1.10409,-1.0442 l 18.30199,-0.0579 c 0.33591,-0.0183 1.07581,0.47913 0.90335,1.16438 l -2.62584,9.5737 c -0.16044,0.43558 -0.48268,1.07839 -1.03201,1.093 z"
        id="path8073-6-1-2-6-1-8-37-7-1-0-8-3-1-6-0-5-6-2-3-6-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -27758,16 +27758,16 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="628.7597"
-       y="768.55389"
+       x="628.59399"
+       y="769.2168"
        id="text6836-3-9-9-6-9-3-6-5-9-5-1-8-1"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
          sodipodi:role="line"
          id="tspan6838-5-3-7-1-4-2-1-4-3-4-4-9-7"
-         x="628.7597"
-         y="768.55389"
+         x="628.59399"
+         y="769.2168"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">D0</tspan></text>
     <path
        style="display:inline;opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -29140,7 +29140,7 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
     <path
        style="display:inline;opacity:1;fill:#decdc3;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.17212422;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 38.339564,440.73856 c -0.32941,4.4e-4 -0.41493,-0.52374 -0.34795,-0.96028 l 2.00397,-7.50278 c 0.14604,-0.56393 0.64667,-0.83444 0.85456,-0.82894 l 20.03114,-0.0463 c 0.25999,-0.0148 0.83267,0.38038 0.69918,0.92435 l -2.03238,7.60018 c -0.12418,0.34575 -0.3736,0.85607 -0.79877,0.86767 z"
+       d="m 38.283409,457.61356 c -0.32941,4.4e-4 -0.41493,-0.52374 -0.34795,-0.96028 l 2.00397,-7.50278 c 0.14604,-0.56393 0.64667,-0.83444 0.85456,-0.82894 l 20.03114,-0.0463 c 0.25999,-0.0148 0.83267,0.38038 0.69918,0.92435 l -2.03238,7.60018 c -0.12418,0.34575 -0.3736,0.85607 -0.79877,0.86767 z"
        id="path8073-6-1-2-6-1-8-3-7-7-5-88-5-0-6-7-5-15-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -29150,8 +29150,8 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="61.29612"
-       y="485.60489"
+       x="60.885201"
+       y="504.23853"
        id="text6640-7-5-3-0-4-6-1"
        transform="scale(1.1042119,0.90562328)"
        inkscape:export-xdpi="90"
@@ -29159,8 +29159,8 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
          sodipodi:role="line"
          id="tspan6642-89-5-5-3-6-7-4"
-         x="61.29612"
-         y="485.60489"
+         x="60.885201"
+         y="504.23853"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.99999994px">Pin name</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -31726,7 +31726,7 @@
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 635.51098,766.72031 4.00758,-2.38665"
+       d="m 635.34525,767.38322 4.00758,-2.38665"
        id="path8963-0-2-1-9-4-2-5-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -31803,13 +31803,13 @@
        inkscape:export-xdpi="90"
        transform="scale(0.95446705,1.0477051)"
        id="text5711"
-       y="330.21786"
-       x="71.115814"
+       y="330.23462"
+       x="70.616745"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-         y="330.21786"
-         x="71.115814"
+         y="330.23462"
+         x="70.616745"
          id="tspan5709"
          sodipodi:role="line">GND</tspan></text>
     <path
@@ -31821,6 +31821,78 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
+    <path
+       style="display:inline;opacity:1;fill:#ccff00;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.23321556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 647.36935,582.2949 c -0.58028,5.3e-4 -0.80039,-0.65791 -0.74019,-1.20617 l 2.53643,-9.42458 c 0.18258,-0.70837 1.02872,-1.04818 1.39569,-1.04126 l 35.28327,-0.0577 c 0.4561,-0.0183 1.51732,0.47778 1.35423,1.16111 l -2.57361,9.54682 c -0.17296,0.43435 -0.54476,1.07536 -1.29226,1.08993 z"
+       id="path8073-6-1-2-6-1-8-3-7-7-5-88-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="677.99493"
+       y="554.96814"
+       id="text8586-5-1-0-3-3-0-5-0-1-7-6-7-4"
+       transform="scale(0.95711108,1.0448108)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
+         sodipodi:role="line"
+         id="tspan8588-1-1-3-8-6-5-5-7-4-8-7-7-2"
+         x="677.99493"
+         y="554.96814"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1px">CBSEL_1</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ccff00;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.23321556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 647.25928,595.97746 c -0.58028,5.3e-4 -0.80039,-0.65791 -0.74019,-1.20617 l 2.53643,-9.42458 c 0.18258,-0.70837 1.02872,-1.04818 1.39569,-1.04126 l 35.28327,-0.0577 c 0.4561,-0.0183 1.51732,0.47778 1.35423,1.16111 l -2.57361,9.54682 c -0.17296,0.43435 -0.54476,1.07536 -1.29226,1.08993 z"
+       id="path8073-6-1-2-6-1-8-3-7-7-5-88-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="677.87988"
+       y="568.06384"
+       id="text8586-5-1-0-3-3-0-5-0-1-7-6-7-4-3"
+       transform="scale(0.95711108,1.0448108)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
+         sodipodi:role="line"
+         id="tspan8588-1-1-3-8-6-5-5-7-4-8-7-7-2-4"
+         x="677.87988"
+         y="568.06384"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1px">CBSEL_0</tspan></text>
+    <path
+       style="display:inline;fill:#ccff00;fill-opacity:1;fill-rule:evenodd;stroke:#585958;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 38.595634,410.2032 c -0.48506,0.0312 -0.77229,-0.49863 -0.63167,-0.93613 l 2.05251,-7.52059 c 0.12706,-0.48614 0.58558,-0.84522 1.02199,-0.8397 l 20.581871,10e-6 c 0.48614,0 0.74372,0.62407 0.655329,0.88924 l -2.112169,7.61814 c -0.121091,0.29688 -0.46055,0.7773 -0.97227,0.7734 z"
+       id="path8073-6-1-2-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.788147"
+       y="432.11731"
+       id="text6640-7-5-3-0-45"
+       transform="scale(1.0560276,0.94694495)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/icezum/doc/iCEZUMpinout.png"><tspan
+         sodipodi:role="line"
+         id="tspan6642-89-5-5-3-0"
+         x="63.788147"
+         y="432.11731"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.99999994px">Bitstream Select</tspan></text>
   </g>
   <style
      id="style26"
