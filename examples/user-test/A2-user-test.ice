@@ -590,8 +590,8 @@
             "readonly": true
           },
           "position": {
-            "x": -368,
-            "y": -696
+            "x": 16,
+            "y": -464
           },
           "size": {
             "width": 624,
