@@ -58,7 +58,7 @@ Manufacturer: CHANGED, Description: Alhambra II v1.0 - P01-004
 The **A-eeprom-image-orig.bin** file contains an original eeprom image. You can restore it using the following command
 
 ```
-$ ftdi-eeprom --flash-eeprom Alhambra2-flash-orig.conf
+$ apio raw "ftdi_eeprom --build-eeprom Alhambra2.conf"
 
 FTDI eeprom generator v0.17
 (c) Intra2net AG and the libftdi developers <opensource@intra2net.com>
