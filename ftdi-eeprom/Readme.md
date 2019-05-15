@@ -16,7 +16,7 @@ Since May-15th-2019, the ftdi_eeprom tools has been included into the APIO syste
   * Build the new eeprom image using the command:
 
 ```
-$ ftdi-eeprom --build-eeprom Alhambra2.conf
+$ apio raw "ftdi_eeprom --build-eeprom Alhambra2.conf"
 
 FTDI eeprom generator v0.17
 (c) Intra2net AG and the libftdi developers <opensource@intra2net.com>
@@ -31,7 +31,7 @@ The file **A2-eeprom-image.bin** will be generated
 * **Step 2**: Flash the eeprom image
 
 ```
-$ ftdi-eeprom --flash-eeprom Alhambra2.conf
+$ apio raw "ftdi_eeprom --flash-eeprom Alhambra2.conf"
 
 FTDI eeprom generator v0.17
 (c) Intra2net AG and the libftdi developers <opensource@intra2net.com>
@@ -58,7 +58,7 @@ Manufacturer: CHANGED, Description: Alhambra II v1.0 - P01-004
 The **A-eeprom-image-orig.bin** file contains an original eeprom image. You can restore it using the following command
 
 ```
-$ apio raw "ftdi_eeprom --build-eeprom Alhambra2.conf"
+$ apio raw "ftdi_eeprom --flash-eeprom Alhambra2-flash-orig.conf"
 
 FTDI eeprom generator v0.17
 (c) Intra2net AG and the libftdi developers <opensource@intra2net.com>
@@ -75,7 +75,7 @@ FTDI close: 0
 If you are curious and want to have a look a your eeprom's image, you can read it with the following command:
 
 ```
-$ ftdi-eeprom --read-eeprom Alhambra2.conf
+$ apio raw "ftdi_eeprom --read-eeprom Alhambra2.conf"
 
 FTDI eeprom generator v0.17
 (c) Intra2net AG and the libftdi developers <opensource@intra2net.com>
