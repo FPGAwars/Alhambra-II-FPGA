@@ -3,7 +3,7 @@
 The **FTDI chip** included in the **Alhambra II** board has an internal **256 bytes eeprom memory** that is flashed in the factory. It can be flashed using the ftdi-eeprom **open source tool**. This tool can be compiled to any platform following the instruction of the [tool-systems apio package](https://github.com/FPGAwars/tools-system)
 
 **NOTE**
-Since May-15th-2019, the ftdi_eeprom tools has been included into the APIO system tool v1.1.1 packaged. It can be execute by means of the apio raw command. For example, try:  **apio raw "ftdi_eeprom --help"**
+Since May-15th-2019, the ftdi_eeprom tools has been included into the [APIO](https://github.com/FPGAwars/apio) system tool v1.1.1 package. It can be execute by means of the apio raw command. For example, try:  **apio raw "ftdi_eeprom --help"**
 
 ### Flashing the eeprom
 
