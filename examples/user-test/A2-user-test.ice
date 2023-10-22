@@ -12,48 +12,6 @@
     "graph": {
       "blocks": [
         {
-          "id": "6452619c-51b5-4f29-8433-5f3f2fcc831b",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "yellow",
-            "name": "sw2",
-            "pins": [
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": true,
-            "oldBlockColor": "steelblue"
-          },
-          "position": {
-            "x": -728,
-            "y": -216
-          }
-        },
-        {
-          "id": "cf3f1ab5-f809-4723-8c1c-5e83d0f24fd3",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "navy",
-            "name": "tx-3",
-            "pins": [
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": true,
-            "oldBlockColor": "navy"
-          },
-          "position": {
-            "x": -200,
-            "y": -168
-          }
-        },
-        {
           "id": "60c22458-fbb1-493f-98a4-5db681567843",
           "type": "basic.outputLabel",
           "data": {
@@ -106,7 +64,49 @@
           },
           "position": {
             "x": 872,
-            "y": -152
+            "y": -256
+          }
+        },
+        {
+          "id": "6452619c-51b5-4f29-8433-5f3f2fcc831b",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "yellow",
+            "name": "sw2",
+            "pins": [
+              {
+                "index": "0",
+                "name": "",
+                "value": ""
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "steelblue"
+          },
+          "position": {
+            "x": -728,
+            "y": -216
+          }
+        },
+        {
+          "id": "cf3f1ab5-f809-4723-8c1c-5e83d0f24fd3",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "navy",
+            "name": "tx-3",
+            "pins": [
+              {
+                "index": "0",
+                "name": "",
+                "value": ""
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "navy"
+          },
+          "position": {
+            "x": -200,
+            "y": -168
           }
         },
         {
@@ -512,8 +512,8 @@
             "oldBlockColor": "navy"
           },
           "position": {
-            "x": 784,
-            "y": 360
+            "x": 768,
+            "y": 344
           }
         },
         {
@@ -608,7 +608,7 @@
             "oldBlockColor": "navy"
           },
           "position": {
-            "x": 784,
+            "x": 776,
             "y": 416
           }
         },
@@ -765,6 +765,19 @@
           "position": {
             "x": 784,
             "y": 520
+          }
+        },
+        {
+          "id": "5dc006a1-99d8-4d96-b424-ad695df916ee",
+          "type": "basic.constant",
+          "data": {
+            "name": "",
+            "value": "'haa",
+            "local": false
+          },
+          "position": {
+            "x": 872,
+            "y": -168
           }
         },
         {
@@ -1060,11 +1073,11 @@
           }
         },
         {
-          "id": "80705644-cd61-4356-ada2-46c17e1638bf",
-          "type": "da0861afd3d2e1db0b7bde922cdad9c4a1258652",
+          "id": "69fa3f47-afbf-4109-83bd-4765281ae399",
+          "type": "93c5332100dac9394e2631de4a8fcdcbc727bc54",
           "position": {
-            "x": 872,
-            "y": -64
+            "x": 784,
+            "y": 616
           },
           "size": {
             "width": 96,
@@ -1072,11 +1085,11 @@
           }
         },
         {
-          "id": "69fa3f47-afbf-4109-83bd-4765281ae399",
-          "type": "93c5332100dac9394e2631de4a8fcdcbc727bc54",
+          "id": "306297bc-1645-494d-ba9d-42d50428df37",
+          "type": "ffc517ae50d4171640702dac38a546757cc9ae35",
           "position": {
-            "x": 784,
-            "y": 616
+            "x": 872,
+            "y": -64
           },
           "size": {
             "width": 96,
@@ -1386,26 +1399,6 @@
         },
         {
           "source": {
-            "block": "1bb3e3d3-265e-4d42-8d46-6018ec4dff60",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "243a211e-7ec3-4828-a4df-075b61c99f2f",
-            "port": "a50d1088-061e-4af0-89cd-59567d3904ee"
-          }
-        },
-        {
-          "source": {
-            "block": "31b2307b-4c98-4d4c-abc1-780ccf2c50e0",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "243a211e-7ec3-4828-a4df-075b61c99f2f",
-            "port": "33f6051a-9627-4b08-b821-351edc31a2ad"
-          }
-        },
-        {
-          "source": {
             "block": "c3906860-8f3c-4217-8da4-84b45e4e636c",
             "port": "dee92aca-a960-46a7-8284-55b1a8c2024c"
           },
@@ -1451,8 +1444,8 @@
         },
         {
           "source": {
-            "block": "80705644-cd61-4356-ada2-46c17e1638bf",
-            "port": "56102125-3ee5-4ee9-94d5-e66dfcacb7de"
+            "block": "306297bc-1645-494d-ba9d-42d50428df37",
+            "port": "b5ba4b9b-f5f9-4eb7-9faf-b362f0463917"
           },
           "target": {
             "block": "5e845904-8aa3-446a-bebd-a966150998f5",
@@ -1502,6 +1495,36 @@
           "target": {
             "block": "69fa3f47-afbf-4109-83bd-4765281ae399",
             "port": "38335b0e-8d9b-4725-a45c-e0751762c6f8"
+          }
+        },
+        {
+          "source": {
+            "block": "1bb3e3d3-265e-4d42-8d46-6018ec4dff60",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "243a211e-7ec3-4828-a4df-075b61c99f2f",
+            "port": "a50d1088-061e-4af0-89cd-59567d3904ee"
+          }
+        },
+        {
+          "source": {
+            "block": "31b2307b-4c98-4d4c-abc1-780ccf2c50e0",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "243a211e-7ec3-4828-a4df-075b61c99f2f",
+            "port": "33f6051a-9627-4b08-b821-351edc31a2ad"
+          }
+        },
+        {
+          "source": {
+            "block": "5dc006a1-99d8-4d96-b424-ad695df916ee",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "306297bc-1645-494d-ba9d-42d50428df37",
+            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
           }
         }
       ]
@@ -7798,176 +7821,6 @@
         }
       }
     },
-    "da0861afd3d2e1db0b7bde922cdad9c4a1258652": {
-      "package": {
-        "name": "8bits-Value_0",
-        "version": "0.0.1",
-        "description": "8bits constant value: 0",
-        "author": "Juan Gonzalez-Gomez (Obijuan)",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22153.645%22%20height=%22230.616%22%20viewBox=%220%200%20144.04211%20216.20273%22%3E%3Cg%20style=%22line-height:0%25;-inkscape-font-specification:'Ubuntu%20Mono'%22%3E%3Cpath%20d=%22M72.021%2022.332q-21.774%200-32.8%2021.495-10.887%2021.355-10.887%2064.344%200%2042.85%2010.887%2064.345%2011.026%2021.355%2032.8%2021.355%2021.913%200%2032.8-21.355%2011.027-21.495%2011.027-64.345%200-42.99-11.027-64.344-10.887-21.495-32.8-21.495zm0-22.332q35.034%200%2053.458%2027.776%2018.563%2027.636%2018.563%2080.395%200%2052.62-18.563%2080.396-18.424%2027.636-53.458%2027.636-35.033%200-53.597-27.636Q0%20160.79%200%20108.17q0-52.76%2018.424-80.395Q36.988%200%2072.021%200z%22%20style=%22line-height:1.25%22%20font-size=%22285.851%22%20font-family=%22sans-serif%22%20stroke-width=%227.146%22%20font-weight=%22400%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22/%3E%3C/g%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "56102125-3ee5-4ee9-94d5-e66dfcacb7de",
-              "type": "basic.output",
-              "data": {
-                "name": "",
-                "range": "[7:0]",
-                "size": 8
-              },
-              "position": {
-                "x": 896,
-                "y": 256
-              }
-            },
-            {
-              "id": "ad7918eb-22dd-4b6c-949f-e428f5a55530",
-              "type": "basic.constant",
-              "data": {
-                "name": "",
-                "value": "0",
-                "local": true
-              },
-              "position": {
-                "x": 728,
-                "y": 152
-              }
-            },
-            {
-              "id": "6db4f25e-c3b1-4cc1-b159-a918b9ce2f53",
-              "type": "ffc517ae50d4171640702dac38a546757cc9ae35",
-              "position": {
-                "x": 728,
-                "y": 256
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "ad7918eb-22dd-4b6c-949f-e428f5a55530",
-                "port": "constant-out"
-              },
-              "target": {
-                "block": "6db4f25e-c3b1-4cc1-b159-a918b9ce2f53",
-                "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
-              }
-            },
-            {
-              "source": {
-                "block": "6db4f25e-c3b1-4cc1-b159-a918b9ce2f53",
-                "port": "b5ba4b9b-f5f9-4eb7-9faf-b362f0463917"
-              },
-              "target": {
-                "block": "56102125-3ee5-4ee9-94d5-e66dfcacb7de",
-                "port": "in"
-              },
-              "size": 8
-            }
-          ]
-        }
-      }
-    },
-    "ffc517ae50d4171640702dac38a546757cc9ae35": {
-      "package": {
-        "name": "8-bits-gen-constant",
-        "version": "0.0.2",
-        "description": "Generic: 8-bits generic constant (0-255)",
-        "author": "Juan Gonzalez-Gomez (Obijuan)",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22145.608%22%20height=%22247.927%22%20viewBox=%220%200%20136.50729%20232.43134%22%3E%3Cg%20style=%22line-height:0%25;-inkscape-font-specification:'Ubuntu%20Mono'%22%3E%3Cpath%20d=%22M56.012%20146.905q9.055%206.708%2020.459%2017.105%2011.404%2010.062%2022.472%2021.8%2011.403%2011.74%2021.465%2024.15%2010.062%2012.074%2016.1%2022.471h-32.87q-6.372-10.397-15.763-21.13-9.392-11.068-20.124-21.13-10.398-10.062-21.13-18.447-10.398-8.385-18.783-14.087v74.794H0V4.695L27.838%200v141.874q18.447-16.1%2036.894-31.863%2018.447-16.1%2033.205-33.205h32.533q-14.422%2017.106-34.881%2035.217-20.124%2018.112-39.577%2034.882z%22%20style=%22line-height:1.25%22%20font-size=%22335.399%22%20font-weight=%22400%22%20font-family=%22Ubuntu%20Mono%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22/%3E%3C/g%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "b5ba4b9b-f5f9-4eb7-9faf-b362f0463917",
-              "type": "basic.output",
-              "data": {
-                "name": "",
-                "range": "[7:0]",
-                "size": 8
-              },
-              "position": {
-                "x": 952,
-                "y": 248
-              }
-            },
-            {
-              "id": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4",
-              "type": "basic.constant",
-              "data": {
-                "name": "",
-                "value": "0",
-                "local": false
-              },
-              "position": {
-                "x": 728,
-                "y": 128
-              }
-            },
-            {
-              "id": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
-              "type": "basic.code",
-              "data": {
-                "code": "assign k = VALUE;",
-                "params": [
-                  {
-                    "name": "VALUE"
-                  }
-                ],
-                "ports": {
-                  "in": [],
-                  "out": [
-                    {
-                      "name": "k",
-                      "range": "[7:0]",
-                      "size": 8
-                    }
-                  ]
-                }
-              },
-              "position": {
-                "x": 672,
-                "y": 248
-              },
-              "size": {
-                "width": 208,
-                "height": 64
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4",
-                "port": "constant-out"
-              },
-              "target": {
-                "block": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
-                "port": "VALUE"
-              }
-            },
-            {
-              "source": {
-                "block": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
-                "port": "k"
-              },
-              "target": {
-                "block": "b5ba4b9b-f5f9-4eb7-9faf-b362f0463917",
-                "port": "in"
-              },
-              "size": 8
-            }
-          ]
-        }
-      }
-    },
     "93c5332100dac9394e2631de4a8fcdcbc727bc54": {
       "package": {
         "name": "Comp1-x02",
@@ -9170,6 +9023,100 @@
                 "port": "in"
               },
               "size": 2
+            }
+          ]
+        }
+      }
+    },
+    "ffc517ae50d4171640702dac38a546757cc9ae35": {
+      "package": {
+        "name": "8-bits-gen-constant",
+        "version": "0.0.2",
+        "description": "Generic: 8-bits generic constant (0-255)",
+        "author": "Juan Gonzalez-Gomez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22145.608%22%20height=%22247.927%22%20viewBox=%220%200%20136.50729%20232.43134%22%3E%3Cg%20style=%22line-height:0%25;-inkscape-font-specification:'Ubuntu%20Mono'%22%3E%3Cpath%20d=%22M56.012%20146.905q9.055%206.708%2020.459%2017.105%2011.404%2010.062%2022.472%2021.8%2011.403%2011.74%2021.465%2024.15%2010.062%2012.074%2016.1%2022.471h-32.87q-6.372-10.397-15.763-21.13-9.392-11.068-20.124-21.13-10.398-10.062-21.13-18.447-10.398-8.385-18.783-14.087v74.794H0V4.695L27.838%200v141.874q18.447-16.1%2036.894-31.863%2018.447-16.1%2033.205-33.205h32.533q-14.422%2017.106-34.881%2035.217-20.124%2018.112-39.577%2034.882z%22%20style=%22line-height:1.25%22%20font-size=%22335.399%22%20font-weight=%22400%22%20font-family=%22Ubuntu%20Mono%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22/%3E%3C/g%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "b5ba4b9b-f5f9-4eb7-9faf-b362f0463917",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[7:0]",
+                "size": 8
+              },
+              "position": {
+                "x": 952,
+                "y": 248
+              }
+            },
+            {
+              "id": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4",
+              "type": "basic.constant",
+              "data": {
+                "name": "",
+                "value": "0",
+                "local": false
+              },
+              "position": {
+                "x": 728,
+                "y": 128
+              }
+            },
+            {
+              "id": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign k = VALUE;",
+                "params": [
+                  {
+                    "name": "VALUE"
+                  }
+                ],
+                "ports": {
+                  "in": [],
+                  "out": [
+                    {
+                      "name": "k",
+                      "range": "[7:0]",
+                      "size": 8
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 672,
+                "y": 248
+              },
+              "size": {
+                "width": 208,
+                "height": 64
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4",
+                "port": "constant-out"
+              },
+              "target": {
+                "block": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
+                "port": "VALUE"
+              }
+            },
+            {
+              "source": {
+                "block": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
+                "port": "k"
+              },
+              "target": {
+                "block": "b5ba4b9b-f5f9-4eb7-9faf-b362f0463917",
+                "port": "in"
+              },
+              "size": 8
             }
           ]
         }
